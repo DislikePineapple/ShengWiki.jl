@@ -1,5 +1,5 @@
 module ShengWiki
 
-# Write your package code here.
+# Package is for auto-docs ShengWiki generation.
 
 end
