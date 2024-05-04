@@ -67,10 +67,10 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 
 ### Table
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Syntax    | Description |
+| --------- | ----------- |
+| Header    | Title       |
+| Paragraph | Text        |
 
 ### Fenced Code Block
 
@@ -113,4 +113,6 @@ I need to highlight these ==very important words==.
 
 ### Latex quations
 
-$$ \frac{\partial v}{\partial t}=a $$
+```math
+\frac{\partial v}{\partial t}=a
+```

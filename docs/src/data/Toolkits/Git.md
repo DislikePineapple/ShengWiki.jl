@@ -10,3 +10,7 @@
 
 - 早用分支
 - 改变文件夹结构前后一定要commit
+
+## TODO
+
+- [ ] 搞清楚rebase的用法和查找history
