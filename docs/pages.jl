@@ -2,7 +2,8 @@
 
 pages = [
     "序言" => "index.md",
-    "计算机" => Any["data/Computer/ComputerScience.md",
+    "计算机" => Any[
+        "data/Computer/ComputerScience.md",
         "算法"=>Any[
             "data/Computer/Algorithms/NonlinearSolver.md",
             "data/Computer/Algorithms/ODE.md",
