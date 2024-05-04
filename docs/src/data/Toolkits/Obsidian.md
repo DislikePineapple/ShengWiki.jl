@@ -1,4 +1,4 @@
-# My study of Obsidian
+# Obsidian
 
 ## Overview
 ---

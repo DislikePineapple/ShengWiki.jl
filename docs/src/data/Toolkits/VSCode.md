@@ -1,3 +1,3 @@
 ## Short Cut
 
-![ShortCut](../../pics/keyboard-shortcuts-windows.pdf)
+<embed src="../../pics/keyboard-shortcuts-windows.pdf" type="application/pdf" />
