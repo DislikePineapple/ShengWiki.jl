@@ -1,4 +1,4 @@
-# Heating Instability 撰写计划
+# Heating Instability 修订计划
 
 - 5月9日 稳定性部分图片上传，撰写与修订稳定性部分结果讨论
 - 5月10日 完善基本流部分和稳定性部分结果讨论
