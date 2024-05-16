@@ -15,4 +15,4 @@ My opinion: This is a I/O lib based on HDF5 but much more conviniant than HDF5 i
 ```
 
 ## Reference
-Pachege source: [JLD2.jl](https://github.com/JuliaIO/JLD2.jl)
+Packege source: [JLD2.jl](https://github.com/JuliaIO/JLD2.jl)
