@@ -33,8 +33,10 @@ pages = [
         ],
         "Julia Packages" => Any[
             "data/Toolkits/JuliaPackages/Plots.md",
+            "data/Toolkits/JuliaPackages/HDF5.md",
             "data/Toolkits/JuliaPackages/Documenter.md",
-            "data/Toolkits/JuliaPackages/JLD2.md",
+            "data/Toolkits/JuliaPackages/PkgTemplates.md",
+            "data/Toolkits/JuliaPackages/LocalRegistry.md",
         ],
     ],
     "杂项" => Any["data/Sundry/Thought.md",],
