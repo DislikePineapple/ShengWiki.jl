@@ -34,6 +34,7 @@ pages = [
         "Julia Packages" => Any[
             "data/Toolkits/JuliaPackages/Plots.md",
             "data/Toolkits/JuliaPackages/Documenter.md",
+            "data/Toolkits/JuliaPackages/HDF5.md",
         ],
     ],
     "杂项" => Any["data/Sundry/Thought.md",],
