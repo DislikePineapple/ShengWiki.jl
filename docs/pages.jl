@@ -10,10 +10,11 @@ pages = [
             "data/Computer/Algorithms/PDE.md",
         ],
         "编程语言"=>Any[
-        # "data/Computer/ProgrammingLanguages/Python.md",
+            "data/Computer/ProgrammingLanguages/Python.md",
             "data/Computer/ProgrammingLanguages/Julia.md",
-        # "data/Computer/ProgrammingLanguages/C.md",
+            # "data/Computer/ProgrammingLanguages/C.md",
         ],
+        # "计算机网络"=>Any["data/Computer/Internet/TCPIP.md",],
     ],
     "数学" => Any[
         "data/Mathematics/Mathematics.md",

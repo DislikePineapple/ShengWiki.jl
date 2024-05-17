@@ -2,21 +2,21 @@
 
 ## HDF5
 
-## Description
+### Description
 
 HDF5 is a data model, library, and file format for storing and managing data. 
 It supports an unlimited variety of datatypes, and is designed for flexible and efficient I/O and for high volume and complex data.
 
-## Installation
+### Installation
 
 ```
 julia>]
 pkg> add HDF5
 ```
 
-## Usage
+### Usage
 
-### Save data to a file
+#### Save data to a file
 
 ```julia
 using HDF5, Date
@@ -34,7 +34,7 @@ for (key, value) in output
 end
 close(h5file)
 ```
-### Load data from a file
+#### Load data from a file
 
 ```julia
 using HDF5
@@ -47,12 +47,14 @@ close(h5file)
 
 ## JLD2
 
+### Introduction
+
 JLD2 saves and loads Julia data structures in a format comprising a subset of HDF5, without any dependency on the HDF5 C library. JLD2 is able to read most HDF5 files created by other HDF5 implementations supporting HDF5 File Format Specification Version 3.0 (i.e. libhdf5 1.10 or later) and similarly those should be able to read the files that JLD2 produces. JLD2 provides read-only support for files created with the JLD package.               
 — the author of pakege 
 
-My opinion: This is a I/O lib based on HDF5 but much more conviniant than HDF5 itself for Julia user.
+My opinion: This is a I/O lib based on HDF5 but much more convenient than HDF5.jl for Julia user.
 
-## Usage
+### Usage
 
 ```julia
 @save "filename.h5" data
@@ -61,5 +63,5 @@ My opinion: This is a I/O lib based on HDF5 but much more conviniant than HDF5 i
 
 ## Reference
 
-- Packege source: [HDF5.jl](https://juliaio.github.io/HDF5.jl/stable/)
-- Packege source: [JLD2.jl](https://github.com/JuliaIO/JLD2.jl)
+- Package source: [HDF5.jl](https://juliaio.github.io/HDF5.jl/stable/)
+- Package source: [JLD2.jl](https://github.com/JuliaIO/JLD2.jl)
